@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheAdameia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#/.NET, Python, JavaScript, HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#/.NET, Python, ReactJS, PSQL, JSON, Azure
+- 💞️ I’m looking to collaborate on my fantasy football project!
 - 📫 Reach me on Linkedin https://www.linkedin.com/in/adameia-ramsey-82a45a30a/
 
 <!---
