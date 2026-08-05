@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAdameia
-- 🌱 I’m currently learning C#/.NET, Python, ReactJS, PSQL, JSON, Azure, SignalR
+- 🌱 I’m currently learning C#/.NET, Python, ReactJS, TypeScript, PSQL, JSON, Azure, AWS, SignalR
 - 📫 Reach me on Linkedin https://www.linkedin.com/in/adameia-ramsey-82a45a30a/
 
 <!---
